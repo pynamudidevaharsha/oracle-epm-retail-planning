@@ -1,1 +1,10 @@
+Dimension,Member,Parent,Alias
+Entity,Total_Company,,
+Entity,India,Total_Company,India
+Entity,IN-HYD,India,Hyderabad
+Entity,IN-BLR,India,Bangalore
+Entity,IN-CHN,India,Chennai
+Entity,UAE,Total_Company,UAE
+Entity,UAE-DXB,UAE,Dubai
+Entity,UAE-AUH,UAE,Abu Dhabi
 
