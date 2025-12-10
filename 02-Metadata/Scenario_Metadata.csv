@@ -1,0 +1,8 @@
+Dimension,Member,Parent,Alias
+Scenario,Scenario,,
+Scenario,Actual,Scenario,Actual
+Scenario,Budget,Scenario,Budget
+Scenario,Forecast,Scenario,Forecast
+Scenario,Plan,Scenario,Plan
+Scenario,WhatIf1,Scenario,WhatIf1
+Scenario,WhatIf2,Scenario,WhatIf2
