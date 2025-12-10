@@ -1,0 +1,17 @@
+Dimension,Member,Parent,Alias
+Product,Product,,
+Product,All_Products,Product,All Products
+Product,Electronics,All_Products,Electronics
+Product,Smartphones,Electronics,Smartphones
+Product,iPhone_15,Smartphones,iPhone 15
+Product,iPhone_14,Smartphones,iPhone 14
+Product,Samsung_S24,Smartphones,Samsung S24
+Product,Televisions,Electronics,Televisions
+Product,LG_SmartTV_55,Televisions,LG SmartTV 55
+Product,Apparel,All_Products,Apparel
+Product,Mens_Clothing,Apparel,Men's Clothing
+Product,Nike_Tshirt,Mens_Clothing,Nike T-Shirt
+Product,Levis_Jeans,Mens_Clothing,Levis Jeans
+Product,Grocery,All_Products,Grocery
+Product,Essentials,Grocery,Essentials
+Product,Tata_Salt_1kg,Essentials,Tata Salt 1kg
